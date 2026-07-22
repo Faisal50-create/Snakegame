@@ -60,5 +60,5 @@ Reflekslerinizi geliştirin, stratejinizi oluşturun ve en yüksek skoru elde et
 🐍 Bol şans ve iyi eğlenceler!
 
 ## İletişim Bilgileri
-**Web Sitesi: [selcuksportshd.app](https://selcuksportshd.app/)**
-**E-posta: selcuksportsapp@gmail.com**
+***🌐 Web Sitesi: [Yılan Oyunu](https://yılanoyunu.online/)***
+***📧 E-posta: Contactnow50@gmail.com***

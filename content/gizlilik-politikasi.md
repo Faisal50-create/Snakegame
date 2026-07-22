@@ -56,5 +56,5 @@ Bu Gizlilik Politikası gerektiğinde güncellenebilir. Yapılan değişiklikler
 
 Bu politika hakkında herhangi bir sorunuz varsa bizimle iletişime geçebilirsiniz.
 
-***🌐 Web Sitesi: [selcuksportshd.app](https://selcuksportshd.app/)***
-***📧 E-posta: selcuksportsapp@gmail.com***
+***🌐 Web Sitesi: [Yılan Oyunu](https://yılanoyunu.online/)***
+***📧 E-posta: Contactnow50@gmail.com***

@@ -54,5 +54,5 @@ Bu Kullanım Şartları önceden haber verilmeksizin güncellenebilir.
 
 Web sitesini kullanmaya devam ederek güncel Kullanım Şartlarını kabul etmiş sayılırsınız.
 
-**🌐 Web Sitesi: [Selcuksportshd.app](https://selcuksportshd.app/)**
-**📧 E-posta: selcuksportsapp@gmail.com**
+***🌐 Web Sitesi: [Yılan Oyunu](https://yılanoyunu.online/)***
+***📧 E-posta: Contactnow50@gmail.com***
