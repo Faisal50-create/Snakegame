@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Admin panel block
+Disallow: /admin/
+
+Sitemap: https://selcuksportshd.app/sitemap.xml
+

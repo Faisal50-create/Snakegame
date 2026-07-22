@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+{{ partial "head.html" . }}
+<body>
+  {{ partial "header.html" . }}
+  <main class="main-content">
+    <!-- More Games Section -->
+    {{ partial "more-games.html" . }}
+    <!-- Game Wrapper -->
+  <h1 class="game-title">Yılan Oyunu – Google Yılan Oyunu Oyna | Ücretsiz Yılan Oyunları</h1>
+    
+<div class="game-wrapper">
+    <div class="game-container">
+
+        <div id="iframeContainer"></div>
+
+        <div class="mobile-placeholder" id="mobilePlaceholder">
+
+            <div class="game-icon">🐍</div>
+
+            <h2>Yılan <span>Oyunu</span></h2>
+
+            <p>En iyi deneyim için daha büyük bir ekranda oynayın.</p>
+
+            <button class="play-btn" id="playBtn">
+                <span class="btn-text">▶ Play Now</span>
+                <span class="loading-dots">
+                    <span>.</span><span>.</span><span>.</span>
+                </span>
+            </button>
+
+            <div class="redirect-note">
+                Lütfen birkaç dakika bekleyin...
+            </div>
+
+        </div>
+
+    </div>
+</div>
+
+    <!-- Social Share -->
+    {{ partial "social-share.html" . }}
+
+    <!-- Game Info & Instructions -->
+    {{ partial "game-info.html" . }}
+  </main>
+  {{ partial "footer.html" . }}
+  {{ partial "scripts.html" . }}
+</body>
+</html>

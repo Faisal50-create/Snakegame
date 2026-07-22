@@ -1,0 +1,25 @@
+baseURL = "https://snakegame.example.com/"
+languageCode = "tr"
+title = "Snake Game - Play Classic Snake Online for Free"
+theme = "Mango"
+
+# Disable default taxonomies to avoid warnings
+disableKinds = ["taxonomy", "term"]
+
+[params]
+  description = "Yılan Oyunu oyna! Google Yılan oyununu ücretsiz keşfet, en yüksek skoru yap ve klasik Snake deneyimini mobil veya bilgisayarda hemen ya"
+  keywords = "snake game, classic snake, play snake online, arcade game, free snake game, retro game"
+
+[menu]
+  [[menu.main]]
+    name = "🏠 Anasayfa"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+   name = "Nasıl Oynanır"
+    url = "/Nasıl Oynanır/"
+    weight = 2
+  [[menu.main]]
+    name = "İletişim"
+    url = "/İletişim/"
+    weight = 3
