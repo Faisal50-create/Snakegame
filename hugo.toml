@@ -1,6 +1,6 @@
-baseURL = "https://snakegame.example.com/"
+baseURL = "https://yılanoyunu.online/"
 languageCode = "tr"
-title = "Snake Game - Play Classic Snake Online for Free"
+title = "Yılan Oyunu – Google Yılan Oyunu Oyna | Ücretsiz Yılan Oyunları"
 theme = "Mango"
 
 # Disable default taxonomies to avoid warnings
@@ -8,7 +8,7 @@ disableKinds = ["taxonomy", "term"]
 
 [params]
   description = "Yılan Oyunu oyna! Google Yılan oyununu ücretsiz keşfet, en yüksek skoru yap ve klasik Snake deneyimini mobil veya bilgisayarda hemen ya"
-  keywords = "snake game, classic snake, play snake online, arcade game, free snake game, retro game"
+  keywords = "Yilan oyunu, Google Yilan, Yilan oyunu oyna, Yilan oyunlari, yilan oyunu google,"
 
 [menu]
   [[menu.main]]
