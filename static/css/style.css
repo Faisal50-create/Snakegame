@@ -200,7 +200,7 @@ a:focus {
   overflow: hidden;
   /* Use height: auto to let content define size */
   height: auto;
-  min-height: 200px; /* Prevents collapse while loading */
+  min-height: 400px; /* Prevents collapse while loading */
 }
 .game-wrapper canvas {
   width: 100%;
